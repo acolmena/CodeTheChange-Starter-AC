@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);*{padding:0;margin:0;box-sizing:border-box}body{background-color:#f5d7ab;color:#805c2e;font-family:"Roboto",sans-serif;display:flex;justify-content:center}.board{border:1rem solid #916c3d;background:#916c3d;width:500px;height:500px;display:grid;grid-template:repeat(3,1fr)/repeat(3,1fr);grid-gap:1rem;gap:1rem}.squares{background:beige;color:orange;border:none;font-size:5rem;cursor:pointer;outline:none}.X{color:#deb887}.O{color:#a0cbd3}
+/*# sourceMappingURL=main.63f40a23.chunk.css.map */
